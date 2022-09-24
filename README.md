@@ -4,7 +4,7 @@ This is just a project that uses the browser's mediaDevices API to create a mini
 
 The bummer is it's not supported on mobile devices yet, so it can only work on desktop devices... give it a test below, hope you find it helpful:
 
-# Live:
+# Live: https://mini-displayer.netlify.app/
 
 I've arranged the files and codes in such a way that you wouldn't find difficulty navigating through or understanding...
 
