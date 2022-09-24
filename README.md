@@ -13,3 +13,5 @@ But if get muzzled at any point, you can always reach out to me on any of my soc
 I hope you like it, and if find it helpful/useful, kindly give a star and leave a follow. Thank you.
 
 Would love to receive your feedback as well, so kindly reach out.
+
+Helpful link(s): https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/
